@@ -1,0 +1,14 @@
+# 准备工作
+- Python 3.3
+- mpich-3.1.4
+- pip 6.1.1
+- mpi4py 1.3.1
+- asyncio 3.4.3
+- Celery 3.1.18
+- Numpy 1.9.2
+- Flower 0.8.32（可选）
+- SCOOP 0.7.2
+- Pyro 4.4.36
+- PyCSP 0.9.0
+- DISCO 0.5.2
+- RPyC 3.3.0
